@@ -1,0 +1,16 @@
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\bin\Debug\Laba1c.exe.config
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\bin\Debug\Laba1c.exe
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\bin\Debug\Laba1c.pdb
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Properties.Resources.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.csproj.GenerateResource.Cache
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.exe
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.pdb
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form2.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.csprojResolveAssemblyReference.cache
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form3.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form1.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form4.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form5.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form6.resources
+C:\Users\Evgenii\source\repos\Laba1c\Laba1c\obj\Debug\Laba1c.Form7.resources
